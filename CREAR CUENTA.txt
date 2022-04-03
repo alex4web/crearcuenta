@@ -1,0 +1,114 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body background="https://i.pinimg.com/564x/3a/ab/87/3aab87ed5f0c9e622aba58d0d122e206.jpg">
+<form >
+    <h1>INICE SESION O CREA UNA CUENTA</h1>
+  <h1> <label for="tt">INGRESA TU CORREO ELECTRONICO</label>
+    <input type="email" name="" id="tt"></h1>
+    <h1><label for="rr">INGRESA TU CONTRASEÑA</label>
+    <input type="password" name="" id="rr"></h1>
+   <center><button><a href="sig.html">LLENAR FORMULARIO</a></button></center> 
+   <center><button><a href="CREA.html">CREAR UNA CUENTA</a></button></center>
+
+
+    
+
+    
+
+  
+</form>
+
+   
+
+</body>
+</html>
+
+
+
+
+
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body background="https://i.pinimg.com/564x/21/13/d0/2113d0f9b16caba24129ad5255db0ea6.jpg">
+    <form >
+        <h1>CREA TU CUENTA</h1>
+        <H1><label for="rr">INGRESA TU NOMBRE</label>
+        <input type="text" id="rr"></H1>
+        <h1><label for="gg">INGRESA TU APELLIDO PATERNO</label>
+        <input type="text" id="gg"></h1>
+        <h1><label for="yy">INGRESATU APELLIDOMATERNO</label>
+        <input type="text" id="yy"></h1>
+        <h1><label for="ww">FECHA DE NACIMIENTO</label>
+        <input type="date" id="ww"></h1>
+      <h1> <label for="tt">INGRESA TU CORREO ELECTRONICO</label>
+            <input type="email" name="" id="tt"></h1>
+            <h1><label for="rr">CREA UNA CONTRASEÑA</label>
+            <input type="password" name="" id="rr"></h1>
+            <button><a href="index.html">REGRESAR</a></button>
+            <BUtton><a href="sig.html">LLENAR FORMULARIO</a></BUtton>
+
+
+
+
+
+
+    </form>
+    
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body background="https://i.pinimg.com/564x/9f/61/f5/9f61f5706149741457040e0bc2f2da17.jpg">
+    <h2>FORMULARIO</h2>
+    <a href="index.html">REGRESAR</a>
+    
+</body>
+</html>
+
+
+
+
+h1{
+    font-size: 15px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: crimson;
+}
+h2{
+    font-size: 50PX;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    color: brown;
+}
